@@ -13,6 +13,5 @@
 <p align="center">                        
 <a href="https://codeforces.com/profile/rody_adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rody" height="80" width="60" />    </a>
 <a href="https://www.facebook.com/profile.php?id=100037716287185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rody" height="80" width="60" /></a>
-</p>
-<a href="https://leetcode.com/radwaadelooo6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LeetCode.svg" alt="rody" height="80" width="60" /></a>
+ <a href="https://leetcode.com/radwaadelooo6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rody" height="80" width="60" /></a>
 </p>
