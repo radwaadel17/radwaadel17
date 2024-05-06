@@ -41,4 +41,8 @@
    <a href="https://www.dart.org" target="_blank">
     <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2314354C.svg?style=plastic&logo=dart&logoColor=white">
   </a>
+ &emsp;
+   <a href="https://www.git.org" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%2314354C.svg?style=plastic&logo=git&logoColor=white">
+  </a>
 </p>
