@@ -53,8 +53,8 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?style=plastic&logo=adobe-xd&logoColor=white">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?style=plastic&logo=adobe-photoshop&logoColor=white">
   </a>
 </p>
 
@@ -81,15 +81,4 @@
   </a>
 </p>
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rody_adel&show_icons=true&theme=radical" alt="rody_adel's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rody_adel&theme=radical" alt="rody_adel's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rody_adel&show_icons=true&locale=en&layout=compact&theme=radical" alt="rody_adel's top languages" />
-</p>
