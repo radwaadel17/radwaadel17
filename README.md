@@ -12,7 +12,7 @@
 
 
 
- - 👨‍💻 I am a Student at [FCI](http://suez.edu.eg/ar/?page_id=7325&lang=en)
+ -  I am a Student at [FCI](http://suez.edu.eg/ar/?page_id=7325&lang=en)👨‍💻
  -  I am a competitive programmer at " Codeforces, Atcoder, Leetcode. "
  -  Flutter developer
  -  Graphic designer
