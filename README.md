@@ -10,6 +10,8 @@
  - 👨‍💻 I am a Student at [FCI](http://suez.edu.eg/ar/?page_id=7325&lang=en)
  -  How to reach me **radwaadel959@gmail.com**
  -  I am a competitive programmer at " Codeforces, Atcoder, Leetcode. "
+ -  flutter developer
+ -  Graphic designer
 
 ## 🫶 How to reach me :
 
