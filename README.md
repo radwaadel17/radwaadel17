@@ -26,6 +26,8 @@
  <a href="https://leetcode.com/radwaadelooo6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rody" height="80" width="60" /></a>
  <a href="https://icpc.global/private/profile/987190"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="rdrd" width = 60px /></a> 
  <a href ="https://www.behance.net/radwaadel7" target = "balnk"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rody" height="80" width="60" /></a>
+  <a href="https://www.linkedin.com/in/radwa-adel-63b2a0274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rody" height="30" width="40" /></a>
+
 </p>
 
 
