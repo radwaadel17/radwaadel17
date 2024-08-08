@@ -57,7 +57,7 @@
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%2314354C.svg?style=plastic&logo=git&logoColor=white">
   </a>
 </p>
----
-  ## 🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EsraaSyam's Github Stats" src="https://github-profile-trophy.vercel.app/?username=EsraaSyam&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="250px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Radwa Adel's Github Stats" src="https://github-profile-trophy.vercel.app/?username=radwaadel17 &theme=radical&no-frame=false&no-bg=true&margin-w=4" height="250px"/></a>
