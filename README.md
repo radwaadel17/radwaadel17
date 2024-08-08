@@ -58,6 +58,3 @@
   </a>
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Radwa Adel's Github Stats" src="https://github-profile-trophy.vercel.app/?username=radwaadel17 &theme=radical&no-frame=false&no-bg=true&margin-w=4" height="250px"/></a>
