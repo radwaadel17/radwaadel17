@@ -72,5 +72,4 @@
   <hr/>
   <br/>
 
-  <h3>✨ My Stats ✨</h3>
 </div>
