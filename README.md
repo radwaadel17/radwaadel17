@@ -60,16 +60,3 @@
   </a>
 </p>
 
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br/>
-
-  <!-- Snake Animation -->
-  <img alt="snake eating my contributions" src="https://github.com/radwaadel17/radwaadel17/blob/output/github-snake-dark.svg" />
-
-  <hr/>
-  <br/>
-
-</div>
